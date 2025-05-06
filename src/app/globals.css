@@ -28,6 +28,7 @@ body {
   padding-top: 20px;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
-  background: #b983ff;
-  background: linear-gradient(90deg, rgb(159, 7, 159) 0%, rgb(177, 104, 255) 50%, rgb(229, 204, 255) 100%);
+  background: #89CFF0;
+  background: linear-gradient(90deg, rgb(0, 102, 204) 0%, rgb(102, 178, 255) 50%, rgb(204, 229, 255) 100%);
 }
+
